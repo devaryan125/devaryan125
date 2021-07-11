@@ -1,5 +1,5 @@
 <h2 align="center">Hi Techies 👋,This is Devi</h2>
-<h5 align="center">Test Automation Analyst </h5>
+<h5 align="center">An avid Automation Test Analyst </h5>
 
 [![Linkedin Badge](https://img.shields.io/badge/-devisenapati-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devisenapati/)](https://www.linkedin.com/in/devisenapati/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=devisenapati.devisenapati)
