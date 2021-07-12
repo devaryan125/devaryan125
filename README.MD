@@ -1,10 +1,9 @@
-<h2 align="center">Hi Techies 👋,This is Devi</h2>
+<h2 align="center">Hi Techies <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,This is Devi</h2>
 <h5 align="center">An avid Automation Test Analyst </h5>
 
-[![Linkedin Badge](https://img.shields.io/badge/-devisenapati-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devisenapati/)](https://www.linkedin.com/in/devisenapati/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=devisenapati.devisenapati)
 
-<!--- <img align="right" alt="GIF" src="https://github.com/sadabnepal/sadabnepal/blob/main/images/coder.gif" width="350" height="220" /> --->
+<img align="right" alt="GIF" src="https://github.com/devaryan125/devaryan125/blob/main/Artifacts/programmer.gif" width="350" height="220" />
   
 <!--- **Talking about few Stuffs:**
 
@@ -38,6 +37,10 @@
 ![Eclips](https://img.shields.io/badge/Eclips%20IDE-%232C2255?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+
+# Connect with me<img src="https://github.com/devaryan125/devaryan125/blob/main/Artifacts/Handshake.gif" height="32px">
+
+ [<img src="https://github.com/devaryan125/devaryan125/blob/main/Artifacts/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/devisenapati/)   [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/devaryan125) 
 
 
 ####  Statistics
