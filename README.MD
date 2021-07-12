@@ -1,4 +1,4 @@
-<h2 align="center">Hi Techies <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,This is Devi</h2>
+<h2 align="center">Hi Techies <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> This is Devi</h2>
 <h5 align="center">An avid Automation Test Analyst </h5>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=devisenapati.devisenapati)
