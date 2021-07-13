@@ -5,15 +5,17 @@
 
 <img align="right" alt="GIF" src="https://github.com/devaryan125/devaryan125/blob/main/Artifacts/programmer.gif" width="350" height="220" />
   
-<!--- **Talking about few Stuffs:**
 
-- 🔭 I’m currently working on [WebdriverIO with TypeScript](https://github.com/sadabnepal/WDIO6_TypeScript_BDD)
-- 💻 I’m currently learning **Data structure and Algorithm**
+- 🔭 I’m currently working on [WebdriverIO](https://github.com/devaryan125/WebDriverIOMochaTS)
+
+<!--- 💻 I’m currently learning **Data structure and Algorithm**
+- 📠 Reach out to me: [@devisenapati](https://www.linkedin.com/in/devisenapati/)
 - 💬 Ask me about testing, I am happy to help
-- 📠 How to reach me: [@sadabnepal](https://www.linkedin.com/in/sadabnepal/)
-- 📔 Checkout my [Resume](https://sadabnepal.github.io/files/SadabSaqib_Tester_5.5Yrs.pdf)
+- 📔 Checkout my [Resume]()
 - 🧾 My 2021 Goal : []
---->
+-->
+
+
 
 ---
 **Languages and Tools:**
